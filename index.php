@@ -12,4 +12,5 @@
 
 <?php
     echo "sample text";
+    echo "sample 2nd";
 ?>
