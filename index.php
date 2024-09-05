@@ -11,6 +11,6 @@
 </html>
 
 <?php
-    echo "sample text";
-    echo "sample 2nd";
+    echo "sample";
+    echo "sample";
 ?>
